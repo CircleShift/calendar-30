@@ -1,0 +1,22 @@
+html {
+    background: lightblue;
+}
+
+#cal {
+    margin: 10px;
+}
+
+.day {
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: table-cell;
+    border: 1px solid black;
+    background-color: white;
+    display: inline-block;
+}
+
+.today {
+    background-color: lightgoldenrodyellow;
+}
